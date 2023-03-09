@@ -1,0 +1,126 @@
+
+    h1 {
+        font-family: 'Josefin Sans', sans-serif;
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Tilt Prism', cursive;
+        color: #dbc092;
+    }   
+    figure{
+        border-radius: 10%;
+        overflow: hidden;
+    }
+
+    h2{
+        justify-content: center;
+        border: 2px solid black;
+        outline:#4e031e solid 10px;
+        margin: auto;  
+        padding: 20px;
+        text-align: center; 
+    
+    }
+    h3{
+        justify-content: center;
+        border: 2px solid black;
+        outline: #4e031e solid 10px;
+        margin: auto;  
+        padding: 20px;
+        text-align: center; 
+    
+    }
+    h4{
+        justify-content: center;
+        border: 2px solid black;
+        outline: #4e031e solid 10px;
+        margin: auto;  
+        padding: 20px;
+        text-align: center; 
+    
+    }
+    h5{
+        justify-content: center;
+        border: 2px solid black;
+        outline: #4e031e solid 10px;
+        margin: auto;  
+        padding: 20px;
+        text-align: center; 
+    
+    }
+
+    .Datos {
+        font-family: 'Josefin Sans', sans-serif;
+        font-family: 'Montserrat', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-family: 'Tilt Prism', cursive;
+        font-weight: 300px;
+        padding: 20px;
+        background: var(#dffda7);
+        margin:20px;
+        margin-right: 250px;
+        width:500px ;
+        height: 500px;
+        border-bottom: #4e031e;
+        float: right;
+
+    }
+    .Contactos {
+        background-color: #4e031e;
+        width: 300px;
+        padding: 50px;
+        margin: 20px;
+        margin-left: 250px;
+        background: var(#4e031e);
+        width: 250px;
+        height: 700px;
+        float: left;
+    }
+    body {
+        background-color:#dbc092 ;
+    }
+.Características{
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Tilt Prism', cursive;
+    font-weight: 300px;
+    padding: 20px;
+    background-color: (#4e031e);
+    margin:20px;
+    margin-bottom: 55px;
+    margin-right: 250px;
+    width:500px ;
+    height: 130px;
+    border-bottom: #4e031e;
+    float: right;
+
+}
+#listaContacto-click1, #listaContacto-click2, #listaContacto-click3, #listaContacto-click4, #listaContacto-click5 {
+    margin-top: 20px;
+    border-style: outset;
+    font-size: 15px;
+    padding: 10px;
+    margin-bottom: 10px;
+	color: black;
+	background-color: #dbc092;
+	text-decoration: none;
+    border-radius: 20px;
+    margin-left: 3px;
+    margin-right: 3px;
+    float: left;
+}
+.RedesSociales{
+    margin: 20px;
+    float: left;
+    margin-left: 550px;
+    margin-right: 200px;
+}
+.Facebook{
+    margin: 50px;
+}
+.Twittwer{
+    margin: 50px;
+}
+.Linkedin{
+    margin: 50px;
+}
